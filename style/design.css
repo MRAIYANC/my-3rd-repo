@@ -5,3 +5,11 @@ div{
     margin-bottom: 10px;
 
 }
+.pic-title{
+    text-align: right;
+    height: 30px;
+    width: 110px;
+    background-color: aqua;
+    border: 5px;
+    
+}
